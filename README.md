@@ -49,7 +49,12 @@ Selected from a pool of **3,000+ applicants** for a 12-month AI/ML fellowship wi
 - **Adaptability:** building foundational ML skills while navigating an evolving, real-world-paced program structure
 
 ---
+### 🌱 What I'm Learning / Working Towards
 
+- 📘 **Machine Learning Foundations** — Cornell University, via Break Through Tech AI Studio *(in progress, anticipated Aug 2026)*
+- 🎖 **Technical Leadership Accelerator** — Kode With Klossy *(anticipated Aug 2026)*
+
+---
 ### 📊 GitHub Stats
 
 <p align="center">

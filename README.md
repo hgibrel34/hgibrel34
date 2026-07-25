@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hanna Gibrel-Ali</h1>
-<h3 align="center">Junior at Virginia Tech, studying Industrial & Systems Engineering</h3>
-<h3 align="center">Aspiring Operations Data Scientist</h3>
+<h1 align="center">Hi 👋, I'm Hanna Gibrel-Ali</h2>
+<h4 align="center">Junior at Virginia Tech, studying Industrial & Systems Engineering</h4>
+<h4 align="center">Aspiring Operations Data Scientist</h4>
 
 ---
 

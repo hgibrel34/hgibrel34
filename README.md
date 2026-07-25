@@ -6,9 +6,7 @@
 
 ### 🧭 About Me
 
-I didn't grow up writing code, I grew up thinking in systems. I'm an **Industrial & Systems Engineering** student at Virginia Tech (Class of 2028), and I found my way into machine learning. I'm interested in how ML can make real-world processes like supply chains, operations, resource allocation smarter and more efficient.
-
-Currently, I'm an **AI/ML Fellow with Break Through Tech**, working with Cornell Tech faculty and industry mentors to build machine learning skills. I'm always looking to connect with people working at the intersection of engineering, data, and AI. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- feel free to reach out!
+I didn't grow up writing code, I grew up thinking in systems. I'm an **Industrial & Systems Engineering** student at Virginia Tech (Class of 2028), and I found my way into machine learning. I'm interested in how ML can make real-world processes like supply chains, operations, resource allocation smarter and more efficient. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- feel free to reach out!
 
 ---
 
@@ -33,7 +31,7 @@ Currently, I'm an **AI/ML Fellow with Break Through Tech**, working with Cornell
 
 ### 🎯 Pinned Project: AI Studio (Coming Soon)
 
-I'm currently a **Break Through Tech AI Studio Fellow**, working toward my **Machine Learning Foundations certificate** through Cornell Tech coursework and mentorship. I haven't been matched with a company project yet — once I am, this section will feature my AI Studio project with a full breakdown: overview, methodology, results, visualizations, and my individual contributions.
+I'm currently a **Break Through Tech AI Studio Fellow**, working toward my **Machine Learning Foundations certificate** through Cornell Tech coursework and mentorship. I haven't been matched with a company project yet — once I am, this section will feature my AI Studio project with a full breakdown.
 
 📌 *Check back soon — or follow along as I update this repo throughout the Studio.*
 

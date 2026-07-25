@@ -38,17 +38,6 @@ I'm currently a **Break Through Tech AI Studio Fellow**, working toward my **Mac
 📌 *Check back soon — or follow along as I update this repo throughout the Studio.*
 
 ---
-
-### 🌟 Break Through Tech Fellowship
-
-Selected from a pool of **3,000+ applicants** for a 12-month AI/ML fellowship with **Cornell Tech faculty** and industry mentors. Beyond technical skills, this experience has been building:
-
-- **Communication:** translating technical ML concepts for both technical and non-technical audiences
-- **Collaboration:** working within a cohort-based, team-driven learning model
-- **Initiative:** proactively pursuing coursework and mentorship opportunities ahead of project assignment
-- **Adaptability:** building foundational ML skills while navigating an evolving, real-world-paced program structure
-
----
 ### 🌱 What I'm Learning / Working Towards
 
 - 📘 **Machine Learning Foundations** — Cornell University, via Break Through Tech AI Studio *(in progress, anticipated Aug 2026)*

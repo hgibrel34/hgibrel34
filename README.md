@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hanna Gibrel-Ali</h2>
+<h1 align="center">Hi 👋, I'm Hanna</h2>
 <h4 align="center">Junior at Virginia Tech, studying Industrial & Systems Engineering</h4>
 <h4 align="center">Aspiring Operations Data Scientist</h4>
 

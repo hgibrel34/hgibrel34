@@ -44,8 +44,7 @@ I'm currently a **Break Through Tech AI Studio Fellow**, working toward my **Mac
 ---
 ### 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=hgibrel34)](https://github.com/stats-organization/github-stats-extended)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hgibrel34&rank_icon=github&hide_title=true&include_all_commits=true&theme=shadow_red)](https://github-stats-extended.vercel.app/api?username=hgibrel34&rank_icon=github&hide_title=true&include_all_commits=true&theme=shadow_red)
 
 ---
 

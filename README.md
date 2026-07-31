@@ -33,13 +33,15 @@ I didn't grow up writing code, I grew up thinking in systems. I'm an **Industria
 
 I'm currently a **Break Through Tech AI Studio Fellow**, working toward my **Machine Learning Foundations certificate** through Cornell Tech coursework and mentorship. I haven't been matched with a company project yet — once I am, this section will feature my AI Studio project with a full breakdown.
 
-📌 *Check back soon — or follow along as I update this repo throughout the Studio.*
+*Check back soon — or follow along as I update this repo throughout the Studio.*
 
 ---
 ### 🌱 What I'm Learning / Working Towards
 
+- 📌 **Semantic Book Reccomender** - Self Directed LLM Project
 - 📘 **Machine Learning Foundations** — Cornell University, via Break Through Tech AI Studio *(in progress, anticipated Aug 2026)*
 - 🎖 **Technical Leadership Accelerator** — Kode With Klossy *(anticipated Aug 2026)*
+- 
 
 ---
 ### 📊 GitHub Stats

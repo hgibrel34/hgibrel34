@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hanna</h2>
-<h4 align="center">Sophmore at Virginia Tech, studying Industrial & Systems Engineering</h4>
+<h4 align="center">Sophomore at Virginia Tech, studying Industrial & Systems Engineering</h4>
 <h4 align="center">Aspiring Operations Data Scientist</h4>
 
 ---
 
 ### 🧭 About Me
 
-I didn't grow up writing code, I grew up thinking in systems. I'm an **Industrial & Systems Engineering** student at Virginia Tech (Class of 2028), and I found my way into machine learning. I'm interested in how ML can make real-world processes like supply chains, operations, resource allocation smarter and more efficient. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- feel free to reach out!
+I didn't grow up writing code, I grew up thinking in systems. I'm an **Industrial & Systems Engineering** student at Virginia Tech (Class of 2029), and I found my way into machine learning. I'm interested in how ML can make real-world processes like supply chains, operations, resource allocation smarter and more efficient. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- feel free to reach out!
 
 ---
 

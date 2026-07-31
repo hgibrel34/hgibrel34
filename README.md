@@ -41,14 +41,14 @@ I'm currently a **Break Through Tech AI Studio Fellow**, working toward my **Mac
 - 📌 **Semantic Book Reccomender** - Self Directed LLM Project
 - 📘 **Machine Learning Foundations** — Cornell University, via Break Through Tech AI Studio *(in progress, anticipated Aug 2026)*
 - 🎖 **Technical Leadership Accelerator** — Kode With Klossy *(anticipated Aug 2026)*
-- 
 
 <!-- 
 ### 📊 GitHub Stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hgibrel34&rank_icon=github&hide_title=true&include_all_commits=true&theme=shadow_red)](https://github-stats-extended.vercel.app/api?username=hgibrel34&rank_icon=github&hide_title=true&include_all_commits=true&theme=shadow_red)
 
---!>
+-->
+
 ---
 ### 📫 How to Reach Me
 

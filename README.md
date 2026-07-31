@@ -43,13 +43,13 @@ I'm currently a **Break Through Tech AI Studio Fellow**, working toward my **Mac
 - 🎖 **Technical Leadership Accelerator** — Kode With Klossy *(anticipated Aug 2026)*
 - 
 
----
+<!-- 
 ### 📊 GitHub Stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hgibrel34&rank_icon=github&hide_title=true&include_all_commits=true&theme=shadow_red)](https://github-stats-extended.vercel.app/api?username=hgibrel34&rank_icon=github&hide_title=true&include_all_commits=true&theme=shadow_red)
 
+--!>
 ---
-
 ### 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanna-gibrel-ali/)

@@ -1,54 +1,74 @@
-<h1 align="center">Hi 👋, I'm Hanna</h2>
-<h4 align="center">Sophomore at Virginia Tech, studying Industrial & Systems Engineering</h4>
-<h4 align="center">Aspiring Operations Data Scientist</h4>
+<h1 align="center">Hi 👋, I'm Hanna</h1>
+<p align="center">Industrial & Systems Engineering student at Virginia Tech</p>
+<p align="center">Exploring data science, machine learning, and smarter operations</p>
 
 ---
 
 ### 🧭 About Me
 
-I didn't grow up writing code, I grew up thinking in systems. I'm an **Industrial & Systems Engineering** student at Virginia Tech (Class of 2029), and I found my way into machine learning. I'm interested in how ML can make real-world processes like supply chains, operations, resource allocation smarter and more efficient. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- feel free to reach out!
+I’m a junior studying Industrial & Systems Engineering at Virginia Tech (Class of 2028). I’m interested in how things work together—and how data can help them work better.
+
+That curiosity led me to machine learning. I enjoy exploring messy datasets, comparing approaches, and turning findings into something people can use. My interests include supply chains, manufacturing, resource allocation, and healthcare, especially where better processes can make a meaningful difference.
+
+Outside of my data projects, I help coordinate work across Virginia Tech’s Hybrid Electric Vehicle Design Team and am developing an Excel dashboard to track the team’s four-year budget.
+
+I’m looking for internship and co-op opportunities where I can keep building my analytical skills and contribute to real engineering and operations problems.
 
 ---
 
 ### 🛠 Tech Stack
 
-**Languages & Data:**
+Languages & Data
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**ML & Tools:**
+Machine Learning & Tools
 
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ---
 
-### 🎯 Pinned Project: AI Studio (Coming Soon)
+### 🔎 What I’m Working On
 
-I'm currently a **Break Through Tech AI Studio Fellow**, working toward my **Machine Learning Foundations certificate** through Cornell Tech coursework and mentorship. I haven't been matched with a company project yet — once I am, this section will feature my AI Studio project with a full breakdown.
+#### AI Studio — Break Through Tech × Capital One
 
-*Check back soon — or follow along as I update this repo throughout the Studio.*
+I’m working with a seven-person team on an interpretable model to help identify schools with elevated rates of restrictive practices using Civil Rights Data Collection data.
 
----
-### 🌱 What I'm Learning / Working Towards
+We’re exploring staffing and resource features and comparing modeling approaches, with an emphasis on making the results understandable and useful for administrator decision-making.
 
-- 📌 **Semantic Book Reccomender** - Self Directed LLM Project
-- 📘 **Machine Learning Foundations** — Cornell University, via Break Through Tech AI Studio *(in progress, anticipated Aug 2026)*
-- 🎖 **Technical Leadership Accelerator** — Kode With Klossy *(anticipated Aug 2026)*
-
---- 
-### 📊 GitHub Stats
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hgibrel34&rank_icon=github&hide_title=true&include_all_commits=true&theme=shadow_red)](https://github-stats-extended.vercel.app/api?username=hgibrel34&rank_icon=github&hide_title=true&include_all_commits=true&theme=shadow_red)
+I’ll share more about the project as it develops and as sharing guidelines allow.
 
 ---
-### 📫 How to Reach Me
+
+### 📂 Featured Project
+
+#### Income Eligibility Classifier
+
+I compared Decision Tree and Neural Network models for a nonprofit applicant-screening use case, looking beyond accuracy to consider interpretability and potentially sensitive predictors.
+
+The project helped me think more carefully about how models should be evaluated—and why a higher accuracy score isn’t always the only consideration.
+
+[Explore the project →](https://github.com/hgibrel34/income-eligibility-classifier)
+
+---
+
+### 🌱 Learning & Development
+
+- Machine Learning Foundations certificate — Cornell University, August 2026
+- Technical Leadership certificate — Kode With Klossy, August 2026
+- Break Through Tech Fellow — coursework, applied projects, and industry mentorship
+
+---
+
+### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanna-gibrel-ali/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hannagibrel@gmail.com)
